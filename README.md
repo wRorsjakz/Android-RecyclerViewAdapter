@@ -12,6 +12,7 @@ This is not an actual functioning Youtube app clone.
 <img src="https://img.shields.io/badge/minSdkVersion-21-red.svg?style=true" alt="minSdkVersion 21" data-canonical-src="https://img.shields.io/badge/minSdkVersion-24-red.svg?style=true" style="max-width:100%;"> <img src=https://img.shields.io/badge/compileSdkVersion-28-brightgreen.svg alt="compileSdkVersion 28" data-canonical-src="https://img.shields.io/badge/compileSdkVersion-27-yellow.svg?style=true" style="max-width:100%;">
 
 ## RecyclerView In Action
+![ezgif com-resize](https://user-images.githubusercontent.com/39665412/50394068-c51c5280-0795-11e9-8e98-a6d8536f21e1.gif)
 
 ## Tutorial
 ### Layout
