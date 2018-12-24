@@ -33,6 +33,7 @@ public class LibraryFragment extends Fragment {
         recyclerView = view.findViewById(R.id.library_recyclerView);
         adapter = new LibraryFragmentRecyclerViewAdapter(getContext(),titleList,authorList,null);
         recyclerView.setLayoutManager(new LinearLayoutManager(getContext()));
+        recyclerView.setHasFixedSize(true);
         recyclerView.setAdapter(adapter);
     }
 
